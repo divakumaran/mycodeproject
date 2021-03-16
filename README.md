@@ -1,6 +1,4 @@
 # mycodeproject
-my experiments and learning
-
 
 Here is the few technologies/Tool used for this project 
 
@@ -13,7 +11,9 @@ Java 1.8
 Maven
 Eclipse IDE
 Postman
+Junit
+Mockito
 
 #TODO
-Implement Junit & Logging  
+Implement Logging  
 
